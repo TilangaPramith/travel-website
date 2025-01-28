@@ -1,0 +1,23 @@
+.description {
+  margin: 4rem 6rem;
+  color: #2a2a2a;
+
+}
+
+.description h1 {
+  font-size: 3rem;
+}
+
+.description p {
+  font-size: 1.3rem;
+  color: black;
+  padding: 0.5rem 0.2rem 0;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 850px) {
+  .description {
+      margin: 4rem 2rem;
+  }
+
+}
