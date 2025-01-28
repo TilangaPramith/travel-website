@@ -4,16 +4,8 @@ import Home from './routes/Home';
 import About from './routes/About';
 import Service from './routes/Service';
 import Contact from './routes/Contact';
-import { useEffect } from "react";
 
 function App() {
-  useEffect(() => {
-    // Dynamically set favicon
-    const favicon = document.getElementById("favicon");
-    if (favicon) {
-      favicon.href = "./assets/Logo.png"; 
-    }
-  }, []);
   return (
     <div className="App">
       <Routes>
