@@ -4,13 +4,13 @@ function AboutUs () {
     return(
         <div className="about-container">
             <h1>Our History</h1>
-            <p>The origins of Travel My Sri Lanka drawings go all the way back to the 1940s when Swiss chemist Albert Hofmann discovered lysergic acid diethylamide (LSD). Hofmann was researching derivates from lysergic acid to create a circulatory and respiratory stimulant that had no negative side effects on the uterus. The result? LSD. Once he created the drug, he started experimenting with it and soon discovered its psychedelic effects.</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
             
             <h1>Our Mission</h1>
-            <p>Our Mission is to touch the horrizon where our capabilities may succesfully meet with the requirements of our clients, that too with ultimate transparency and cost-effectivenes</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
             <h1>Our Vision</h1>
-            <p>To show the seeds of par-exxcellence serives with customes centric approach and reap the trust of worldwide clients</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
         
         </div>
 
